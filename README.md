@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=Egg&color=9eccf4&height=260&section=header&text=Welcome!&fontSize=80&fontAlignY=35&fontColor=ffffff&desc=Yeji's&nbsp;Github&nbsp;Profile&descSize=25&descAlign=50&descAlignY=55&animation=scaleIn"/><br><br><br>
 
-<!-- <a href="https://github.com/aaa8392"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaa8392&layout=compact&theme=nord&hide_border=true" /></a> 
+<!-- <a href="https://github.com/yejiiH"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yejiiH&layout=compact&theme=nord&hide_border=true" /></a> 
  -->
 <a href="https://github.com/aaa8392"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=aaa8392&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
 

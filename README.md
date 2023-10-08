@@ -31,7 +31,7 @@
 
 ### 📖 studying
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aaa8392)](https://solved.ac/aaa8392/)
 
 

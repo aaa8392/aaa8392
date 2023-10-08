@@ -2,6 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=Shark&color=9eccf4&height=260&section=header&text=Welcome!&fontSize=80&fontAlignY=35&fontColor=ffffff&desc=Yeji's&nbsp;Github&nbsp;Profile&descSize=25&descAlign=50&descAlignY=55&animation=scaleIn"/><br><br><br>
 
 <a href="https://github.com/yejiiH"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=yejiiH&show_icons=true&include_all_commits=true&theme=nord&hide_border=true"/></a>
+![Yeji's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejiiH&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aaa8392)](https://solved.ac/aaa8392/)
 
 ### 📚 Skill
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
@@ -39,6 +41,8 @@
 <a href="https://yeji-power.tistory.com/"><img style="height:20px" src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>&nbsp;
 <a href="mailto:hanyeji8392@gmail.com"><img style="height:20px" src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <br><br><br>
+
+
 
 
 <!--

@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=Shark&color=9eccf4&height=260&section=header&text=Welcome!&fontSize=80&fontAlignY=35&fontColor=ffffff&desc=Yeji's&nbsp;Github&nbsp;Profile&descSize=25&descAlign=50&descAlignY=55&animation=scaleIn"/><br><br><br>
 
-<a href="https://github.com/yejiiH"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=yejiiH&show_icons=true&include_all_commits=true&theme=nord&hide_border=true"/></a>
 ![Yeji's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejiiH&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aaa8392)](https://solved.ac/aaa8392/)
 

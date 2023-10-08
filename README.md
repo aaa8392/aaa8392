@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=Slice&color=9eccf4&height=260&section=header&text=Welcome!&fontSize=80&fontAlignY=35&fontColor=ffffff&desc=Yeji's&nbsp;Github&nbsp;Profile&descSize=25&descAlign=50&descAlignY=55&animation=scaleIn"/><br><br><br>
+<img src="https://capsule-render.vercel.app/api?type=Shark&color=9eccf4&height=260&section=header&text=Welcome!&fontSize=80&fontAlignY=35&fontColor=ffffff&desc=Yeji's&nbsp;Github&nbsp;Profile&descSize=25&descAlign=50&descAlignY=55&animation=scaleIn"/><br><br><br>
 
 <a href="https://github.com/yejiiH"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=yejiiH&show_icons=true&include_all_commits=true&theme=nord&hide_border=true"/></a>
 
@@ -34,7 +34,7 @@
 <a href="https://yeji-power.tistory.com/"><img style="height:20px" src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>&nbsp;
 <a href="mailto:hanyeji8392@gmail.com"><img style="height:20px" src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <br><br><br>
-<img src="https://capsule-render.vercel.app/api?type=Slice&color=9eccf4&height=260&section=footer"/>
+
 
 <!--
 **aaa8392/aaa8392** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

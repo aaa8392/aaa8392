@@ -30,7 +30,10 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>&nbsp;
 
-### 🔗Connect with me
+### 📖 Studying
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>&nbsp;
+
+### 🔗 Connect with me
 <a href="https://yeji-power.tistory.com/"><img style="height:20px" src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>&nbsp;
 <a href="mailto:hanyeji8392@gmail.com"><img style="height:20px" src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <br><br><br>
